@@ -13,10 +13,9 @@
        else:
          min_val = lst[i + 1]
          min_idx = i + 1
-     else:
-        if min >lst[i]
+    else:
+       if min >lst[i]
            min_val = lst[i]
            min_idx = i 
-        
      print("Minimum Value", min_val)
      print("Minimum Index", min_idx)
