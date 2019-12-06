@@ -1,8 +1,9 @@
  import random
  lst = []
- for i in range(0,10):
+ for i in range(0,10): 
   lst.append(random.randint(100,1000))
- print(lst)
+ print(lst)  # list of rndom number
+ 
  min_val = 0
  min_idx = 0
  for i in range(len(lst) - 1):
